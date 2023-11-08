@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Je m'appelle Shoshanah et je suis développeur web en formation. J'ai pour projet de faire une licence puis un master dans la cyber-sécurité <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
+Passionnée de cette source de savoir infinie et sans limites qu'est la programmation, je souhaite enrichir mes connaissances et apprendre toujours plus.
+
+Les premiers mois de formation à l'école O'clock, que je remercie chaleureusement <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏</font></font>, m'ont énormément apporté tant au niveau professionnel que personnel et je cherche actuellement une entreprise qui pourrait me prendre en tant que developpeur débutante certes mais passionnée <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤩</font></font>
+
 <!--
 **ShoshanahBarzilai/ShoshanahBarzilai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
