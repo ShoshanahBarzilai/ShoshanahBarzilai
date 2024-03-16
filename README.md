@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Je m'appelle Shoshanah et je suis développeur web en formation. J'ai pour projet de faire une licence/BUT puis un master dans la cyber-sécurité <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
+Je m'appelle Shoshanah et je suis développeur web en formation. Je suis inscrite à l'ESGI pour un Bachelor informatique et j'ai pour projet, à terme, de faire un master et me spécialiser dans la sécurité informatique <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
 Passionnée par cet univers si vaste qu'est la programmation, je souhaite enrichir mes connaissances et apprendre encore plus.
 
-Les premiers mois de formation à l'école O'clock, que je remercie chaleureusement <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏</font></font>, m'ont énormément apportés tant au niveau professionnel que personnel et je cherche actuellement une entreprise qui pourrait me prendre en tant que développeur débutante certes mais passionnée <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤩</font></font>
+Les premiers mois de formation à l'école O'clock, que je remercie chaleureusement <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏</font></font>, m'ont énormément apportés tant au niveau professionnel que personnel et je cherche actuellement une entreprise qui pourrait me prendre en tant que développeur, débutante certes, mais passionnée <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤩</font></font>
 
 <!--
 **ShoshanahBarzilai/ShoshanahBarzilai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
