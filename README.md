@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je m'appelle Shoshanah et je suis développeur web en formation. Je suis inscrite à l'ESGI pour un Bachelor informatique en alternance et j'ai pour projet, à terme, de faire un master et me spécialiser dans la sécurité informatique <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
+Je m'appelle Shoshanah et je suis développeur web en formation. Je suis inscrite à l'ESGI pour un Bachelor informatique en alternance. <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
 Passionnée par cet univers si vaste qu'est la programmation, je souhaite enrichir mes connaissances et apprendre encore plus.
 
 Les premiers mois de formation à l'école O'clock, que je remercie chaleureusement <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏</font></font>, m'ont énormément apportés tant au niveau professionnel que personnel et je continue l'aventure auprès de l'école ESGI <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤩</font></font>
