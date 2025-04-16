@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Je m'appelle Shoshanah et je suis développeur web en formation. Je suis inscrite à l'école O'clock pour un Bachelor informatique en alternance. <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
-Passionnée par cet univers si vaste qu'est la programmation, je souhaite enrichir mes connaissances et apprendre plus encore 🤩.
+Je m'appelle Shoshanah et je suis développeur web en formation. Je suis inscrite à l'école O'clock pour un Bachelor informatique en alternance <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓</font></font>
+Passionnée par cet univers si vaste qu'est la programmation, je souhaite enrichir mes connaissances et apprendre plus encore 🤩
 
 Les premiers mois de formation à l'école, que je remercie chaleureusement <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙏</font></font>, m'ont énormément apportés tant au niveau professionnel que personnel et je continue l'aventure 🚀
 
